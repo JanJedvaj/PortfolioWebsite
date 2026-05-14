@@ -1,7 +1,6 @@
 
   # Developer Portfolio Website Design
 
-  This is a code bundle for Developer Portfolio Website Design. The original project is available at https://www.figma.com/design/2MPWhWVTWnjaRdsOn8d5Dg/Developer-Portfolio-Website-Design.
 
   ## Running the code
 
