@@ -12,7 +12,6 @@ const projects = [
     gradient: "linear-gradient(135deg, #0071E3 0%, #0ea5e9 100%)",
     githubUrl: "https://github.com/JanJedvaj/TiskaraHladProject",
     contributed: false,
-    demoVideo: "/videos/TiskaraHlad.mp4",
   },
   {
     title: "Interference Injection Tool",
