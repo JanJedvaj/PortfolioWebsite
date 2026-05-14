@@ -21,7 +21,7 @@ const projects = [
     gradient: "linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%)",
     githubUrl: "https://github.com/JanJedvaj/InterferenceInjectionTool",
     contributed: false,
-    demoVideo: "/videos/InterferenceVideo.mp4",
+    demoVideo: "https://res.cloudinary.com/dyk9vmedn/video/upload/v1778757503/InterferenceVideo_uygm5n.mp4",
   },
   {
     title: "Interoperability Project",
@@ -77,7 +77,7 @@ const projects = [
     gradient: "linear-gradient(135deg, #059669 0%, #10b981 100%)",
     githubUrl: "https://github.com/AdrianBusak/TapNGo-deploy",
     contributed: true,
-    demoVideo: "/videos/TapNGo.mp4",
+    demoVideo: "https://res.cloudinary.com/dyk9vmedn/video/upload/v1778757491/TapNGo_fbjhxm.mp4",
   },
 ];
 
